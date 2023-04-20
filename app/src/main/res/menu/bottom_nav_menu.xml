@@ -6,7 +6,7 @@
         android:title="Home" />
 
     <item
-        android:id="@+id/Search"
+        android:id="@+id/search"
         android:icon="@drawable/ic_search"
         android:title="Search" />
 
@@ -15,12 +15,12 @@
         android:title="" />
 
     <item
-        android:id="@+id/Profile"
+        android:id="@+id/profile"
         android:icon="@drawable/ic_person"
         android:title="Profile" />
 
     <item
-        android:id="@+id/Settings"
+        android:id="@+id/settings"
         android:icon="@drawable/ic_setting"
         android:title="Settings" />
 </menu>
